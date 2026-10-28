@@ -20,3 +20,6 @@ outputs/
 artifacts/
 *.keras
 *.h5
+
+*.backup-*
+
